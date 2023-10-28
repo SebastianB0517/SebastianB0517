@@ -1,6 +1,6 @@
   <h1>Hi, I'm Sebastian an <a href="https://www.linkedin.com/in/sebastian-burgos-296273297/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/joshmadakorcc/osticket-prereqs)
