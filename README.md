@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation]([https://github.com/joshmadakorcc/osticket-prereqs](https://github.com/SebastianB0517/osticket-installation))
+  - [osTicket: Installation]([[https://github.com/joshmadakorcc/osticket-prereqs](https://github.com/SebastianB0517/osticket-installation)](https://github.com/SebastianB0517/osticket-installation))
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
