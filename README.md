@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Lifestyle Tickets](https://github.com/SebastianB0517/osticket-installation)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/SebastianB0517/Active-Directory)
 
 <h2>🤳Connect with me:</h2>
 
